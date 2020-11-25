@@ -28,6 +28,7 @@
       "prettier"
   ],
   "rules": {
+    "eslint-disable-next-line no-unused-vars": "off",
 
 "no-use-before-define": "off",
 "react/jsx-props-no-spreading": "off",
